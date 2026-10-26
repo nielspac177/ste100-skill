@@ -1,0 +1,8 @@
+{
+  "name": "ste100",
+  "version": "1.0.0",
+  "description": "Write in ASD-STE100 style (Simplified Technical English): active voice, short sentences, one idea per sentence, one term per concept.",
+  "author": { "name": "Niels Pacheco-Barrios" },
+  "homepage": "https://github.com/nielspac177/ste100-skill",
+  "license": "MIT"
+}
