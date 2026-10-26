@@ -1,6 +1,11 @@
 {
   "name": "ste100-skill",
-  "owner": { "name": "Niels Pacheco-Barrios" },
+  "owner": {
+    "name": "Niels Pacheco-Barrios"
+  },
+  "metadata": {
+    "description": "ASD-STE100 (Simplified Technical English) writing skill for Claude."
+  },
   "plugins": [
     {
       "name": "ste100",
